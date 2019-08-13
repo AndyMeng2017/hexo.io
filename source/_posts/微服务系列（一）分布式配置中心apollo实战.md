@@ -4,9 +4,9 @@ title: 微服务系列（一）分布式配置中心apollo实战
 date: 2019-8-9 19:07:36
 categories: blog
 tags: [apollo,xxl-job,prometheus,metrics,微服务]
-photos:
-	- gallery/01.jpg
 description: 整体部署方案
+photos:
+	- https://upload-images.jianshu.io/upload_images/539247-a033217ebc222844.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 ---
 
 # 部署文档
