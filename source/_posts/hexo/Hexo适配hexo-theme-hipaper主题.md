@@ -1,3 +1,4 @@
+---
 layout: post
 title: Hexo适配hexo-theme-hipaper主题
 date: 2019-8-13 11:30:24
@@ -9,6 +10,7 @@ description: Hexo
 photos:
 
  - https://upload-images.jianshu.io/upload_images/539247-0f218c1489b3e567.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
+---
 
 ### Hexo适配hexo-theme-hipaper主题
 
